@@ -11,8 +11,7 @@ Email: songhp@usj.edu.cn
 
 ## Installation
 
-
-        % Start MATLAB
+	% Start MATLAB
 	% First, set up CVX package
 	cd cvx
 	cvx_setup
