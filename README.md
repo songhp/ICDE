@@ -1,5 +1,5 @@
 # ICDE
-This is a MATLAB packege for Cosparse Signal Recovery via Iterative Cosupport Detection-Estimation (ICDE) Algorithm
+This is a MATLAB packege for Sparse Analysis Recovery/Cosparse Signal Recovery via Iterative Cosupport Detection-Estimation (ICDE) Algorithm
 
 
 This packeage is written and maintained by Heping Song
