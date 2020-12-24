@@ -37,6 +37,7 @@ function [xhat, out] = ICDEL2(y, M, MH, Omega, OmegaH, xinit, k, params)
 %                                                       argmin || Omega_Lambdahat * x ||_2   subject to  || y - M * x ||_2 <= epsilon.
 %       params.l2_accuracy :                        when l2solver is 'cg', this determines how accurately the above problem is solved.
 % ===============================
+%
 % Examples:
 %
 % d = 200;
