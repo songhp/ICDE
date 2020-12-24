@@ -24,6 +24,7 @@ function [xhat, out] = ICDEL1(y, M, Omega, k, params, xinit)
 %       params.noise_level :                        this corresponds to epsilon above.
 %	xinit :                                      	initial estimate of x0. default : xinit = zeros(d, 1);
 % ===============================
+%
 % Examples:
 %
 % d = 220;
